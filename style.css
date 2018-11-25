@@ -1,0 +1,35 @@
+body{
+	width: 100%;
+	height: 100%;
+	background-color: gray;
+	margin: 0 auto;
+}
+img{
+	width: 110px;
+	height: 130px;
+}
+strong{
+	color: red;
+}
+#page-big{
+	margin: 0 auto;
+	
+	padding: 0px;
+	margin: 0px;
+}
+#div02{
+	width: 320px;
+	height: 450px;
+	margin: 0 auto;
+	text-align: center;
+	border: 1px red solid;
+	margin-top: 185px;
+}
+#kuang{
+	width: 320px;
+	height: 380px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 1px;
+	margin-top: 40px;
+}
